@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Shop.</string>
+    <string name="conten_price">$100.00</string>
+    <string name="content_text"><b>Product Information:</b> All Hardware is 316 “Marine-Grade” Stainless to resist corrosion. Authentic “non-repeating” wood grain patterns throughout the product. Impenetrable surface: so mold, mildew and bugs cannot penetrate the surface.
+No splintering, cracking or warping as with wood products. *Greater impact resistance than wood. Made with a minimum 95% Recycled Post-Consumer Content. No porosity, pinholes or pockmarks *Backed by the best warranty in the industry. This HDPE Lumber is ideal for use in outdoor furniture applications where weather-resistance, minimal maintenance and a premium appearance is required over a long product life cycle.</string>
+    <string name="conten_brand"><b>Brand:</b> Minimalis Wood</string>
+    <string name="conten_gable"><b>Made in:</b>USA</string>
+</resources>
